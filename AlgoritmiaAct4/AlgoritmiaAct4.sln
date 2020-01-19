@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmiaAct4", "AlgoritmiaAct4\AlgoritmiaAct4.csproj", "{F62E0EBB-611F-4B45-ACD0-139D9B894963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62E0EBB-611F-4B45-ACD0-139D9B894963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62E0EBB-611F-4B45-ACD0-139D9B894963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62E0EBB-611F-4B45-ACD0-139D9B894963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62E0EBB-611F-4B45-ACD0-139D9B894963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

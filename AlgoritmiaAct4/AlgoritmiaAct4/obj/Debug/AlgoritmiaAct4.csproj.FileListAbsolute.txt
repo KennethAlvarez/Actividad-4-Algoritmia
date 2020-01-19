@@ -1,0 +1,8 @@
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\obj\Debug\AlgoritmiaAct4.csprojResolveAssemblyReference.cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\obj\Debug\AlgoritmiaAct4.MainForm.resources
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\obj\Debug\AlgoritmiaAct4.csproj.GenerateResource.Cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\bin\Debug\AlgoritmiaAct4.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\bin\Debug\AlgoritmiaAct4.pdb
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\obj\Debug\AlgoritmiaAct4.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\obj\Debug\AlgoritmiaAct4.pdb
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct4\AlgoritmiaAct4\obj\Debug\AlgoritmiaAct4.mostrarAlgoritmos.resources
